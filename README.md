@@ -1,1 +1,1 @@
-# PingPong
+# PingPong на языке Python
